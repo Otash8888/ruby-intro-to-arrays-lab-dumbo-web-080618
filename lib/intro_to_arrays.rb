@@ -7,4 +7,5 @@ def array_with_two_elements
   for element in (1..2) do
   array.push (element)
   end
+  array
 end
